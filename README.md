@@ -1,12 +1,14 @@
-# Academic Management System
+# Sistema de Gerenciamento Acadêmico
 Projeto Java para um sistema de gerenciamento acadêmico.
 
 ## 1. Introdução
-Esse projeto foi criado para avaliação em um curso de Orientação Orientada a Objetos, com foco em cobrir conceitos básicos de POO. Informações gerais sobre os autores são descritas abaixo:
+Esse projeto foi criado para avaliação em um curso de Orientação Orientada a Objetos, com foco em cobrir conceitos básicos de POO. Projeto aprimorado para a disciplina Paradigmas de Linguagem de Programação, ministrada pelo professor Lídio Mauro Lima de Campos.
 
-Thiago Costa Maia (Matrícula: 201511140013)
+Discentes: 
 
-Helder Mateus dos Reis Matos (Matrícula: 201904940036)
+Helder M. dos R. Matos (201904940036)
+Raphael Camilo Gomes Câmara (20140494025)
+Thiago Calado Sosinho (201604940037)
 
 ## 2. Objetivo
 Desenvolver um sistema de gerenciamento acadêmico que simula as funcionalidades básicas que a maioria das universidades e faculdades usam para integrar suas atividades. Algumas das funcionalidades incluem:
