@@ -6,9 +6,11 @@ Esse projeto foi criado para avaliação em um curso de Orientação Orientada a
 
 Discentes: 
 
-Helder M. dos R. Matos (201904940036).
-Raphael Camilo Gomes Câmara (20140494025).
-Thiago Calado Sosinho (201604940037).
+Helder M. dos R. Matos (201904940036)
+
+Raphael Camilo Gomes Câmara (20140494025)
+
+Thiago Calado Sosinho (201604940037)
 
 ## 2. Objetivo
 Desenvolver um sistema de gerenciamento acadêmico que simula as funcionalidades básicas que a maioria das universidades e faculdades usam para integrar suas atividades. Algumas das funcionalidades incluem:
