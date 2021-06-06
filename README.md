@@ -25,4 +25,4 @@ Desenvolver um sistema de gerenciamento acadêmico que simula as funcionalidades
 ## 3. Metodologia
 O projeto foi desenvolvido e escrito em Java usanto conceitos de POO como objetos, classes, herança, encapsulamento, abstração, polimorfismo, etc. Uma abordagem voltada para testes foi usada durante a implementação do código, que detalha a maior parte do processo especificado pelo projeto.
 
-![Teste]demo.gif)
+![Teste]sistema-de-gerenciamento-academico/demo.gif)
